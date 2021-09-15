@@ -20,7 +20,7 @@ W tej fazie każdy z nas ma możliwość oddania trzech głosów na trzy wybrane
 
 Faza głosowania trwa **dwa dni** po czym przechodzimy do fazy realizacji.
 
-Pomysł z największą liczbą głosów zostaje wybrany jako temat wyzwania HS Community Jam.
+Pomysł z największą liczbą głosów zostaje wybrany jako temat wyzwania HS3 Community Jam.
 
 ### Faza 3: Realizacja projektów
 
@@ -28,7 +28,7 @@ Każdy z uczestników tworzy projekt w swoim repozytorium. Link do repozytorium 
 
 ### Faza 4: Wybór zwycięzcy!
 
-W tej fazie **mamy 3 dni** na wybranie zwycięskich (naszym zdaniem) projektów. Każdy z uczestników ma 1 głos do oddania*[1]*, przy czym nie można głosować na siebie!
+W tej fazie **mamy 3 dni** na wybranie zwycięskich (naszym zdaniem) projektów. Każdy z uczestników ma 1 głos do oddania *[1]*, przy czym nie można głosować na siebie!
 
 Zwycięski projekt trafia do repozytorium HS3 Community Jam do sekcji `Hall of Fame`.
 
@@ -38,7 +38,7 @@ W tej fazie odpoczywamy przed następnym turniejem a do zwycięzcy wędruje nagr
 
 ## Nagrody
 
-Każdy ze zwycięzcó wybiera jedną książkę (do 150 zł) i dostaje ją świeżą prosto na swój czytnik albo biblioteczkę.
+Każdy ze zwycięzców wybiera jedną książkę (do 150 zł) i dostaje ją świeżą prosto na swój czytnik albo biblioteczkę.
 
 ## Drobym Drukiem
 
