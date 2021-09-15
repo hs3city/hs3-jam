@@ -20,6 +20,8 @@ W tej fazie każdy z nas ma możliwość oddania trzech głosów na trzy wybrane
 
 Faza głosowania trwa **dwa dni** po czym przechodzimy do fazy realizacji.
 
+Pomysł z największą liczbą głosów zostaje wybrany jako temat wyzwania HS Community Jam.
+
 ### Faza 3: Realizacja projektów
 
 Każdy chętny uczestnik tworzy projekt w swoim repozytorium. Link do repozytorium wrzucany jest na forum pod koniec fazy (można tworzyć w repozytoriach prywatnych, ale pod koniec fazy trzeba je upublicznić). Faza trwa dwa tygodnie! Do linków prosimy zamieszczać krótkie komentarze dlaczego coś zostało zrobione tak a nie inaczej ;)
